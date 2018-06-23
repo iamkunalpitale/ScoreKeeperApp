@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widthandheight">85dp</dimen>
+    <dimen name="margintop">19dp</dimen>
+    <dimen name="value">24dp</dimen>
+</resources>

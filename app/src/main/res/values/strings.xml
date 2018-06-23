@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScorekeeperApps</string>
+    <string name="ember">Ember</string>
+    <string name="headbutt">HeadButt</string>
+    <string name="firetail">FireTail</string>
+    <string name="electrabuzz">ElectraBuzz</string>
+    <string name="thunderbolt">Thunderbolt</string>
+    <string name="electricpower">Electricpwr</string>
+    <string name="reset">Reset</string>
+</resources>
